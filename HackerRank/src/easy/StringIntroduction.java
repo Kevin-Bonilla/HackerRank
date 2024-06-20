@@ -43,7 +43,7 @@ For the second line, write Yes if is lexicographically greater than otherwise pr
 For the third line, capitalize the first letter in both and and print them on a single line, separated by a space.
  */
 
-package hackerRank;
+package easy;
 
 import java.io.*;
 import java.util.*;
